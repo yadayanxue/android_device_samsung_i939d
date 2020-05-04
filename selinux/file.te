@@ -1,1 +1,2 @@
+type sysfs_mdnie, fs_type, sysfs_type;
 type efs_device_file, file_type;
