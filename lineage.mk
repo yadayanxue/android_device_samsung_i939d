@@ -38,7 +38,7 @@ PRODUCT_MANUFACTURER := samsung
 # Set build fingerprint / ID / Product Name etc.
 PRODUCT_BUILD_PROP_OVERRIDES += \
 		PRODUCT_NAME=m0ctcduos \
-		TARGET_DEVICE=m0ctcduos \
+		TARGET_DEVICE=m0ctc \
 		BUILD_FINGERPRINT="samsung/m0ctcduos/m0ctcduos:4.3/JSS15J/I939DKEUBOA1:user/release-keys" \
 		PRIVATE_BUILD_DESC="m0ctcduos-user 4.3 JSS15J I939DKEUBOA1 release-keys"
 
